@@ -30,7 +30,7 @@ Scikit-learn
 SciPy  
 
 ## Repository Structure
-
+'''
 projects/
 │
 ├── ecommerce-customer-behavior-analysis
@@ -39,7 +39,7 @@ projects/
 ├── thyroid-cancer-classification
 ├── university-admission-prediction
 └── yemen-housing-price-prediction
-
+'''
 Each project contains:
 
 data/ – dataset used in the project  
